@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Cilia</h1>
-<h3 align="center">Computer and Information Science Undergrad</h3>
+<h3 align="center">Computer Science Undergrad</h3>
 
 - 🔭 I’m currently working on **Vertigo**
 
