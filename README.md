@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vertigo**
 
-- 🌱 I’m currently learning **Test Driven Development**
+- 🌱 I’m currently learning **Operating Systems**
 
 - 📫 How to reach me **Francisco.cilia@gmail.com**
 
