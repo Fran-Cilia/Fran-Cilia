@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Francisco Cilia</h1>
+<h1 align="center">👋, I'm Francisco Cilia</h1>
 <h3 align="center">Computer Science Undergrad</h3>
 
-- 🔭 I’m currently working on **a shortest path visualization program**
+- 🔭 I’m currently a **Jr. SDE for Amazon**
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Integration Testing**
 
 - 📫 How to reach me **Francisco.cilia@gmail.com**
 
